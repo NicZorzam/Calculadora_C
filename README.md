@@ -1,2 +1,2 @@
 # Calculadora_C
-Calculadora simples em C
+Trabalhos realizados na disciplina de Estruturas de Dados.
